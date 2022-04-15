@@ -1,0 +1,91 @@
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+  }
+.half-width img{
+    width: 100%;
+    
+  }
+  .brown-highlight{
+      color: #ec4c7a;
+      font-size: 40px;
+      letter-spacing: 2px;
+  }
+  p{
+      color: #6e6e6e;
+
+  }
+.btn{
+background: #ec4c7a;
+color: white;
+padding: 9px 20px;
+text-decoration: none;
+  }
+  .top-banner{
+    background-image: url("header-bg.png" );
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+section{
+    height: 500px;
+   
+}
+.card {
+    margin-top: 40%;
+    display: block;
+  }
+  .biography-bg{
+      background-image: url("biography-bg.png");
+      background-repeat: no-repeat;
+      background-position: left;
+
+  }
+  .latest-work{
+    width: 25%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+    
+
+  }
+  .work h1 {
+    margin-top: 21%;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 6px;
+  }
+    .latest-work img{
+      width: 100%;
+  }
+  .Client{
+      text-align: center;
+  }
+  .Client  h1{
+      font-size: 40px;
+  }
+  .Box {
+    background-color: #ec4c7a;
+    display: inline-block;
+    padding: 3px 150px;
+    color: white;
+    border-radius: 20px;
+    margin-top: 50px;
+    
+  }
+  footer{
+      text-align: center;
+      color: #6e6e6e;
+  }
+  .Box p {
+      color: white;
+  }
+  .footer-bg{
+      background-image: url("footer-bg.png");
+      background-repeat: no-repeat;
+      background-position: left;
+    
+  }
+ 
